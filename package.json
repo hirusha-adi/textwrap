@@ -1,0 +1,17 @@
+{
+  "name": "textwrap",
+  "version": "1.0.0",
+  "description": "A js package similar to python's textwrap module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "split",
+    "message",
+    "text",
+    "limit"
+  ],
+  "author": "Hirusha Adikari",
+  "license": "MIT"
+}
