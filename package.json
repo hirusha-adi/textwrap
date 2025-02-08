@@ -7,11 +7,14 @@
     "test": "node test.js"
   },
   "keywords": [
-    "split",
-    "message",
     "text",
-    "limit"
+    "wrapper",
+    "text wrapping",
+    "string manipulation"
   ],
   "author": "Hirusha Adikari",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
